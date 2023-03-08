@@ -15,7 +15,9 @@
 版本7-local
 
 版本7-remote
-版本8---remote
+
+版本8---remote 合并 版本8-local
+
 
 
 
